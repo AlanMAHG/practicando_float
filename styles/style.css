@@ -1,0 +1,72 @@
+*{
+    padding: 0%;
+    margin-right: 0%;
+}
+body{
+    background-color: blueviolet;
+}
+.mainContainer{
+    width: 500px;
+    margin-top: 40px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: yellow;
+    overflow:hidden;
+}
+h2{
+    font-size: 39px;
+    font-family: Verdana;
+    text-align: center;
+    text-transform: uppercase;
+    color: teal;
+}
+#border{
+    border: 10px solid #666666;
+    border-radius: 15px;
+    width: 100px;
+    height: 100px;
+}
+.a{
+    float:left;
+    margin-left: 200px;
+    margin-bottom: 5px;
+}
+.b{
+    float:left;
+    clear:left;
+    margin-left: 135px;
+    margin-bottom: 5px;
+}
+.c{
+    float:left;
+    margin-bottom: 5px;
+    margin-left: 3px;
+}
+.d{
+    float:left;
+    clear:left;
+    margin-left: 74px;
+}
+.e{
+    float:left;
+    margin-left: 3px;
+}
+.f{
+    float:left;
+    margin-left: 3px;
+    
+}
+
+.blue{
+    color: blue;
+    
+}l
+.red{
+    color: red;
+    border-color: red;
+}
+
+.green{
+    color: green;
+    border-color: green;
+}
